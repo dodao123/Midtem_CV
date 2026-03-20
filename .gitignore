@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+.venv/
+
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PyTorch models cache
+*.pt
+*.pth

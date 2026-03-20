@@ -1,0 +1,17 @@
+# CV Midterm Project Dependencies
+opencv-python>=4.8.0
+opencv-contrib-python>=4.8.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+open3d>=0.17.0
+scikit-image>=0.21.0
+
+# API Server
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-multipart>=0.0.6
+
+# Monocular Depth Estimation (MiDaS)
+torch>=2.0.0
+torchvision>=0.15.0
+timm>=0.9.0
